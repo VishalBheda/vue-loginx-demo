@@ -1,29 +1,18 @@
 # vue-loginx
 
 ## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Start Backend Server
+<pre>
+$cd backendAPI
+$npm install
+$node app.js
+</pre>
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Start Vue frontend
+<pre>
+change directory to main project vue-loginx
+$npm install
+$nom run serve
+</pre>
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
