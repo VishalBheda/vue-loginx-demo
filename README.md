@@ -13,6 +13,6 @@ $node app.js
 <pre>
 change directory to main project vue-loginx
 $npm install
-$nom run serve
+$npm run serve
 </pre>
 
